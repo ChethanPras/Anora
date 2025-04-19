@@ -5,6 +5,6 @@ int main()
     cout<<"Hello";
     cout<<"World";
     cout<<"Live example";
-    cout<<"anora one";
+    cout<<"anora ";
     return 0;
 }
