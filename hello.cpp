@@ -5,7 +5,6 @@ int main()
     cout<<"Hello";
     cout<<"World";
     cout<<"Live example";
-    cout<<"hii";
-    cout<<"name is chethan prasad s";
+ 
     return 0;
 }
