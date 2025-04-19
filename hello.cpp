@@ -6,5 +6,6 @@ int main()
     cout<<"World";
     cout<<"Live example";
     cout<<"hii";
+    cout<<"name";
     return 0;
 }
