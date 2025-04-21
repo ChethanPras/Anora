@@ -23,7 +23,8 @@ return count;
 int main(){
 int n=21;
 int z=countDigitOne(n);
-    printf("The numbers of 1's is");
+printf("This is master");
+    printf("The numbers of 1's is ");
 printf("%d",z);
     printf("The new one");
 return 0;
