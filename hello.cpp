@@ -4,7 +4,7 @@ int main()
 {
     cout<<"Hello";
     cout<<"World";
-    cout<<"Currently in hello";
-
+    cout<<"Live example";
+    cout<<"anora life is good at all the days  ";
     return 0;
 }
