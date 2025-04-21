@@ -28,5 +28,6 @@ printf("This is master");
 printf("%d",z);
     printf("The new one in second branch");
     printf("same as above");
+    printf("ueah did this");
 return 0;
 }
