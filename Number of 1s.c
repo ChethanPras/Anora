@@ -23,5 +23,7 @@ return count;
 int main(){
 int n=21;
 int z=countDigitOne(n);
+    printf("The numbers of 1's is");
+printf("%d",z);
 return 0;
 }
