@@ -6,5 +6,6 @@ int main()
     cout<<"World";
     cout<<"Live example";
     cout<<"anora life is good at all the days  ";
+    cout<<"mine";
     return 0;
 }
