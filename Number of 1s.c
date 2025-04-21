@@ -26,5 +26,6 @@ int z=countDigitOne(n);
     printf("The numbers of 1's is");
 printf("%d",z);
     printf("The new one in second branch");
+    printf("Yeah this is as above");
 return 0;
 }
